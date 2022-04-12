@@ -44,7 +44,7 @@ Notes:
 - **We recommend training on the training+validation sets, and using the test set for validation.**
 
 ### SummScreen, TV Megasite (Chen et al., 2022)
-This dataset pairs soap opera transcripts with summaries written by TV Megasite contributors. We have preprocessed the data so that it is in the same format as the Forever Dreaming data (i.e., it follows SCROLLS conventions), and it may be downloaded [here](summscreen_tms.zip).
+This dataset pairs soap opera transcripts with summaries written by TV Megasite contributors. We have preprocessed the data so that it is in the same format as the Forever Dreaming data (i.e., it follows SCROLLS conventions), and it may be downloaded [here](https://drive.google.com/file/d/1aRrBJ_cto0OAOX7Eb1ouZD5IIdFGVtdI/view?usp=sharing).
 
 Notes:
 - **You may use any part of this dataset for training, since we will be providing new inputs for evaluation.**
