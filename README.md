@@ -28,19 +28,10 @@ Notes:
 - **We will use the test set of BookSum as part of the final evaluation. We may or may not provide new, unseen test inputs for the final evaluation as well.**
 
 ### Scriptbase (Gorinski & Lapata, 2015)
-<<<<<<< HEAD
-This dataset pairs movie transcripts with their corresponding Wikipedia summaries. The data may be downloaded from [here](https://github.com/EdinburghNLP/scriptbase/tree/master/scriptbase_alpha). See the main [repository](https://github.com/EdinburghNLP/scriptbase) for additional information.
 
-**TODO**: I assume we'll use `script.txt` as the input. Do we want the target to be `processed/wikiplot.txt` (plain text synopsis from Wikipedia) or the `processed/summaries` (the shorter, trailer-style IMDB blurbs)?
-
-Notes:
-- **You may use any part of this dataset for training, since we will be providing new inputs for evaluation.**
-- **We recommend training on the training+validation sets, and using the test set for validation.**
-=======
 This dataset pairs movie transcripts with their corresponding Wikipedia summaries. The data may be downloaded from [here](https://github.com/EdinburghNLP/scriptbase/tree/master/scriptbase_alpha). See the main [repository](https://github.com/EdinburghNLP/scriptbase) for additional information. We've split the dataset into train and validation splits, and the list of movies associated with each split can be found [here](https://github.com/fladhak/creative-summ-data/tree/main/scriptbase_splits). 
 
 **NOTE:** The input for this task is the movie script (the `script.txt` file) and the target summary is the plain text synopsis from Wikipedia (the `processed/wikiplot.txt` file).
->>>>>>> f60fd149d9cc33dab8855c1994316fe40d92015b
 
 ### SummScreen, Forever Dreaming (Chen et al., 2022)
 This dataset pairs TV transcripts from primetime shows with their corresponding Wikipedia summaries. We will use version of this data associated with the [SCROLLS Benchmark](https://www.scrolls-benchmark.com/) (Shaham et al., 2022), and you may download the data [there](https://www.scrolls-benchmark.com/tasks).
