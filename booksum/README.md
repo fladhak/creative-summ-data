@@ -14,4 +14,4 @@ This subdirectory contains two directories.
 ## Chapterized Project Gutenberg Data
 The chapterized book text from Gutenberg, for the books used in this shared task, can be downloaded here:  
 https://storage.cloud.google.com/creative-summ-booksum/all_chapterized_books.zip  
-NOTE: this is a subset of the original BookSum dataset. We recommend shared task participants use this version.
+NOTE: this ZIP combines a subset of the BookSum dataset, and a subset of the NovelChapter dataset. We recommend shared task participants use this version.
