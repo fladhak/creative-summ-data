@@ -34,11 +34,12 @@ This dataset pairs movie transcripts with their corresponding Wikipedia summarie
 **NOTE:** The input for this task is the movie script (the `script.txt` file) and the target summary is the plain text synopsis from Wikipedia (the `processed/wikiplot.txt` file).
 
 ### SummScreen, Forever Dreaming (Chen et al., 2022)
-This dataset pairs TV transcripts from primetime shows with their corresponding Wikipedia summaries. We will use version of this data associated with the [SCROLLS Benchmark](https://www.scrolls-benchmark.com/) (Shaham et al., 2022), and you may download the data [there](https://www.scrolls-benchmark.com/tasks).
+This dataset pairs TV transcripts from primetime shows with their corresponding Wikipedia summaries. We will use the version of this data associated with the [SCROLLS Benchmark](https://www.scrolls-benchmark.com/) (Shaham et al., 2022), and you may download the data [there](https://www.scrolls-benchmark.com/tasks). **Please see the notes below for important additional information!**
 
 Notes:
 - **You may use any part of this dataset for training, since we will be providing new inputs for evaluation.**
 - **We recommend training on the training+validation sets, and using the test set for validation.**
+- **Since the test set *outputs* are not easily downloaded from the SCROLLS website, we make them available [here](https://drive.google.com/file/d/1uG7e4-n4D3gMmY5wq7FtQwtiVvVCUQkb/view?usp=sharing)**.
 
 ### SummScreen, TV Megasite (Chen et al., 2022)
 This dataset pairs soap opera transcripts with summaries written by TV Megasite contributors. We have preprocessed the data so that it is in the same format as the Forever Dreaming data (i.e., it follows SCROLLS conventions), and it may be downloaded [here](https://drive.google.com/file/d/1aRrBJ_cto0OAOX7Eb1ouZD5IIdFGVtdI/view?usp=sharing).
