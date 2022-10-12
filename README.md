@@ -55,4 +55,4 @@ Philip John Gorinski, Mirella Lapata. 2015. [Movie Script Summarization as Graph
 
 Wojciech Kryściński, Nazneen Rajani, Divyansh Agarwal, Caiming Xiong, Dragomir Radev. 2021. [BookSum: A Collection of Datasets for Long-form Narrative Summarization](https://arxiv.org/pdf/2105.08209.pdf).
 
-Faisal Ladhak, Bryan Li, Yaser Al-Onaizan, Kathlen McKeown. 2020. [Exploring Content Selection in Summarization of Novel Chapters](https://aclanthology.org/2020.acl-main.453/). In ACL.
+Faisal Ladhak, Bryan Li, Yaser Al-Onaizan, Kathleen McKeown. 2020. [Exploring Content Selection in Summarization of Novel Chapters](https://aclanthology.org/2020.acl-main.453/). In ACL.
